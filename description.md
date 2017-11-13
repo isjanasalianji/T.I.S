@@ -12,8 +12,8 @@ online me faqen e saj. Kjo eshte nje pjes lehtesuese e software-it per perdorues
 dhe kompanit qe do e posedojne T.I.S-in. 
 
 Category : Business 
-Updated : not yet.
-Version : 1.1
+Updated : not yet
+Version : 1.0
 Languages : Albanian , (English soon)
 Developer : Nav inc. (Hasan Kolleshi)
 Team : Adriola Ruko, Isjana Salianji, Sidorela Qosanj, Kristjana kociasi, Marjus Aliaj

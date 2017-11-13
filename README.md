@@ -1,4 +1,4 @@
-# T.I.S. (Technology Information Shop.)
+# T.I.S. (Technology Information Shop)
 
 T.I.S eshte nje program per disa platforma te ndryshme OS. Ju lutemi te lexoni Description.md 
 te shikoni nese OS juaj i permbahet Sisteme qe kjo platform punon. Ky software eshte nje ide 

@@ -12,7 +12,7 @@ elektronike. Ne Filen "Description.md" do keni te dhenat qe karakterizojn T.I.S.
 
 
 ### Antaret e grupi : 
-Hasan Kolleshi (Kryetar Grupi).
+*Hasan Kolleshi (Kryetar Grupi).*
 Adriola Ruko
 Isjana Salianji
 Sidorela Qosanj
